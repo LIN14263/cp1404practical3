@@ -25,3 +25,4 @@ if __name__ == "__main__":
 # 1) line 1: integer between 5 and 20 inclusive; min=5, max=20
 # 2) line 2: odd integer between 3 and 9; min=3, max=9; cannot be 4
 # 3) line 3: float between 2.5 and 5.5; min=2.5, max=5.5
+

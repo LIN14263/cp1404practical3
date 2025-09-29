@@ -25,5 +25,7 @@ def print_asterisks(password: str) -> None:
     print("*" * len(password))
 
 
+
+
 if __name__ == "__main__":
     main()

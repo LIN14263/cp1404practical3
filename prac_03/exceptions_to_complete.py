@@ -22,3 +22,4 @@ def get_valid_score() -> float:
 
 if __name__ == "__main__":
     main()
+
