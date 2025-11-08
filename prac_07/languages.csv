@@ -1,0 +1,6 @@
+name,typing,reflection,year
+Python,Dynamic,True,1991
+Ruby,Dynamic,True,1995
+Java,Static,True,1995
+C,Static,False,1972
+C#,Static,True,2000
