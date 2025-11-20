@@ -22,3 +22,4 @@ class Band:
         """Ask each musician in the band to play."""
         for musician in self.musicians:
             musician.play()
+

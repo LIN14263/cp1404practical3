@@ -26,3 +26,4 @@ class UnreliableCar(Car):
             return super().drive(distance)
         # Car does not move this time
         return 0
+
