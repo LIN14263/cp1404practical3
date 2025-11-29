@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head><title>Wiki Pages</title></head>
+<body>
+    <h1>Pages</h1>
+    <ul>
+        {% for p in pages %}
+            <li><a href="/view/{{ p }}">{{ p }}</a></li>
+        {% endfor %}
+    </ul>
+    <p><a href="/new">Create New Page</a></p>
+</body>
+</html>
